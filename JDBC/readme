@@ -1,0 +1,16 @@
+JDBC - Java DataBase Connectivity
+
+steps to the connectivity
+1) import the package (java.sql.*)
+2) load & register the driver
+3) establish the connection
+4) create the statement
+5) execute the Query
+6) process the result
+7) close
+
+In SQL we have,
+Data Definition Language(DDL) - whenever you create or modify the structure of the database or table
+Data Manipulation Language(DML) - whenever you insert, delete and modifying data in a database
+Data Query Language(DQL) - whenever you want to query to fetching the value, SELECT: It is used to retrieve data from the database.
+Data Control Language(DCL) - control access to data stored in a database. DCL includes commands such as GRANT and REVOKE which mainly deal with the rights, permissions, and other controls of the database system.
